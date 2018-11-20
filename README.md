@@ -22,7 +22,8 @@ git clone https://github.com/adafruit/Adafruit_Python_DHT.git && cd Adafruit_Pyt
 ```
 sudo python setup.py install
 ```
-*try reading the temperature using the example file
+## 3. First Measurements
+*try reading the temperature and humidity using the example file
 ```
 cd exmaples
 sudo ./AdafruitDHT.py 22 4
